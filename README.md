@@ -1,2 +1,2 @@
 # Mys AI
-Mis recursos de AI para generar imagenes...
+
