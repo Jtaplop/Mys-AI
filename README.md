@@ -1,4 +1,4 @@
 # Mys AI - LINKs
-En esta seccion hallaras los diferentes modelos que utilizo en la actualidad para generar influencers de IA. 
+En esta seccion hallaras los diferentes modelos que utilizan los workflows. 
 
-# Modelos Utilizados en Face Swap
+**_Modelos Utilizados en Face Swap_**
