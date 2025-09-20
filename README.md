@@ -29,3 +29,5 @@ https://github.com/kijai/ComfyUI-Florence2
 https://github.com/cubiq/ComfyUI_essentials 
 https://github.com/chrisgoringe/cg-use-everywhere 
 https://github.com/Pixelailabs/Save_Florence2_Bulk_Prompts 
+
+LINKS LORA VTA: https://drive.google.com/drive/folders/18DaPrj1SHVLcwJIbWW5jz9g1egIIJQ0n
