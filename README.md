@@ -8,7 +8,6 @@ En esta seccion hallaras los diferentes modelos que utilizan los workflows.
 
 
 MODELO DE DIFUSIÓN -23 GB:
-				
 https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors?download=true 
 
 CLIP LOADERS
