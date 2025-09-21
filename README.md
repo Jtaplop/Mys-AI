@@ -50,7 +50,7 @@ LINKS LORA VTA: https://huggingface.co/Jotaplop/VITTO/tree/main
 # **WORKFLOW FACESWAP KONTEXT**
 
 **MODELO DE DIFUSION**  
-https://huggingface.co/6chan/flux1-kontext-dev-fp8/resolve/main/flux1-kontext-dev-fp8-e4m3fn.safetensors?download=true  
+https://huggingface.co/Comfy-Org/flux1-kontext-dev_ComfyUI/resolve/main/split_files/diffusion_models/flux1-dev-kontext_fp8_scaled.safetensors?download=true   
 
 **DUAL CLIP LOADER**  
 https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors?download=true  
