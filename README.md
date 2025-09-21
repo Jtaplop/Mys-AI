@@ -58,3 +58,10 @@ https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp8_
 
 **LORA**  
 https://civitai.com/api/download/models/2015589?type=Model&format=SafeTensor  
+
+_QUE NODOS UTILIZA EL WORKFLOW??_
+
+https://github.com/welltop-cn/ComfyUI-TeaCache  
+https://github.com/cubiq/ComfyUI_FaceAnalysis  
+https://github.com/liusida/ComfyUI-AutoCropFaces  
+https://github.com/WASasquatch/was-node-suite-comfyui  
