@@ -46,3 +46,5 @@ https://github.com/chrisgoringe/cg-use-everywhere
 https://github.com/Pixelailabs/Save_Florence2_Bulk_Prompts  
  
 LINKS LORA VTA: https://huggingface.co/Jotaplop/VITTO/tree/main
+
+# **WORKFLOW FACESWAP KONTEXT**  
