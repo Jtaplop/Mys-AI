@@ -32,7 +32,7 @@ https://github.com/Pixelailabs/Save_Florence2_Bulk_Prompts
 
 LINKS LORA VTA: https://huggingface.co/Jotaplop/VITTO/tree/main
 
-SINTAXIS PARA RUNPOD:
+# **SINTAXIS PARA RUNPOD:**
 
 Instalar Archivos "wget"
 Instalar Archivos github "git clone"
