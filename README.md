@@ -19,7 +19,7 @@ wget --header="Authorization: Bearer TOKEN HERE" \
 # **WORKFLOW GOTY V2_**
 
 
-MODELO DE DIFUSIÓN -23 GB:
+MODELO DE DIFUSIÓN -23 GB:  
 https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors?download=true 
 
 CLIP LOADERS
