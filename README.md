@@ -2,7 +2,19 @@
 En esta seccion hallaras los diferentes modelos que utilizan los workflows. 
 <img width="512" height="512" alt="ComfyUI_temp_ieidg_00005_" src="https://github.com/user-attachments/assets/7f79f9c3-f6de-4145-8351-c9d2697a37fc" />
 
+# **SINTAXIS PARA RUNPOD:**
 
+Instalar Archivos "wget"
+Instalar Archivos github "git clone"
+Instalar Archivos que necesitan Token: 
+
+**pip install huggingface_hub**
+
+wget --header="Authorization: Bearer TOKEN HERE" \
+"https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors?download=true"
+
+wget --header="Authorization: Bearer TOKEN HERE" \
+"https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/ae.safetensors?download=true"
 
 # **WORKFLOW GOTY V2_**
 
@@ -34,18 +46,3 @@ https://github.com/chrisgoringe/cg-use-everywhere
 https://github.com/Pixelailabs/Save_Florence2_Bulk_Prompts 
 
 LINKS LORA VTA: https://huggingface.co/Jotaplop/VITTO/tree/main
-
-# **SINTAXIS PARA RUNPOD:**
-
-Instalar Archivos "wget"
-Instalar Archivos github "git clone"
-Instalar Archivos que necesitan Token: 
-
-**pip install huggingface_hub**
-
-wget --header="Authorization: Bearer TOKEN HERE" \
-"https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors?download=true"
-
-wget --header="Authorization: Bearer TOKEN HERE" \
-"https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/ae.safetensors?download=true"
-
