@@ -1,7 +1,7 @@
 # Mys AI - LINKs
 En esta seccion hallaras los diferentes modelos que utilizan los workflows. 
 
-**_Modelos Utilizados en WORKFLOW GOTY V2_**
+# **WORKFLOW GOTY V2_**
 
 
 MODELO DE DIFUSIÓN -23 GB					
