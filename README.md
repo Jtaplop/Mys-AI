@@ -30,4 +30,19 @@ https://github.com/cubiq/ComfyUI_essentials
 https://github.com/chrisgoringe/cg-use-everywhere 
 https://github.com/Pixelailabs/Save_Florence2_Bulk_Prompts 
 
-LINKS LORA VTA: https://drive.google.com/drive/folders/18DaPrj1SHVLcwJIbWW5jz9g1egIIJQ0n
+LINKS LORA VTA: https://huggingface.co/Jotaplop/VITTO/tree/main
+
+SINTAXIS PARA RUNPOD:
+
+Instalar Archivos "wget"
+Instalar Archivos github "git clone"
+Instalar Archivos que necesitan Token: 
+
+**pip install huggingface_hub**
+
+wget --header="Authorization: Bearer TOKEN HERE" \
+"https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors?download=true"
+
+wget --header="Authorization: Bearer TOKEN HERE" \
+"https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/ae.safetensors?download=true"
+
