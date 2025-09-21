@@ -4,10 +4,11 @@ En esta seccion hallaras los diferentes modelos que utilizan los workflows.
 
 # **SINTAXIS PARA RUNPOD:**
 
-Instalar Archivos "wget"
+Instalar Archivos "wget" // 
 Instalar Archivos github "git clone"
-Instalar Archivos que necesitan Token: 
 
+_Instalar Archivos que necesitan Token: 
+_
 **pip install huggingface_hub**
 
 wget --header="Authorization: Bearer TOKEN HERE" \
