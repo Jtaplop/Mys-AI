@@ -7,8 +7,7 @@ En esta seccion hallaras los diferentes modelos que utilizan los workflows.
 Instalar Archivos "wget" // 
 Instalar Archivos github "git clone"
 
-_Instalar Archivos que necesitan Token: 
-_
+_Instalar Archivos que necesitan Token:_
 **pip install huggingface_hub**
 
 wget --header="Authorization: Bearer TOKEN HERE" \
