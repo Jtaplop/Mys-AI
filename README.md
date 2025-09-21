@@ -1,6 +1,6 @@
 # Mys AI - LINKs
 En esta seccion hallaras los diferentes modelos que utilizan los workflows. 
-<img width="764" height="764" alt="ComfyUI_temp_ieidg_00005_" src="https://github.com/user-attachments/assets/7f79f9c3-f6de-4145-8351-c9d2697a37fc" />
+<img width="512" height="512" alt="ComfyUI_temp_ieidg_00005_" src="https://github.com/user-attachments/assets/7f79f9c3-f6de-4145-8351-c9d2697a37fc" />
 
 
 
