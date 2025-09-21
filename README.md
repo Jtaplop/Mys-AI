@@ -16,6 +16,8 @@ wget --header="Authorization: Bearer TOKEN HERE" \
 wget --header="Authorization: Bearer TOKEN HERE" \
 "https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/ae.safetensors?download=true"
 
+pip install insightface (Para el FaceSwap)
+
 # **WORKFLOW GOTY V2_**
 
 
